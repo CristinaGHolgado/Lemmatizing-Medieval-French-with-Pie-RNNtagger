@@ -1,4 +1,4 @@
-# Lemmatizing medieval Frech with Pie & RNNTagger
+# Lemmatizing medieval French with Pie & RNNTagger
 
 This repository contains a couple of notebooks created to easily generate a langague model for Pie and RNNTagger for tagging and lemmatizing medieval French with no prior local installation and fastened training. Any training dataset can be used if the language-specific parameters are properly configured for each tool's parameters file. Also, it includes the possibility of tagging files from our Drive with the generated models.
 
